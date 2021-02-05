@@ -1,9 +1,9 @@
 # [Unity](https://unity.com/) Prototype
 
 ## Project Description:
-
+The unity animation course
 ## Screenshots
 
 
-<img src='Screenshot.PNG' align="right" width=960>
+<img src='BallPuff.gif'>
 
