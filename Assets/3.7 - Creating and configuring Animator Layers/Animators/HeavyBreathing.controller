@@ -69,7 +69,7 @@ AnimatorController:
   - serializedVersion: 5
     m_Name: AdditiveHeavyBreathing
     m_StateMachine: {fileID: -2176605026527061122}
-    m_Mask: {fileID: 0}
+    m_Mask: {fileID: 31900000, guid: 84bfc87dbd2071501a1aaaf00a306e07, type: 2}
     m_Motions: []
     m_Behaviours: []
     m_BlendingMode: 1
